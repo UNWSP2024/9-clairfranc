@@ -1,4 +1,4 @@
-# Claire Francis, March 24, 2025, Week9_program3.py
+# Claire Francis, March 25, 2025, Week9_program3.py
 
 # Program #3: Average Numbers
 # Assume a file containing a series of integers is named numbers.txt and exists on the computer's disk.
