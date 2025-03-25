@@ -17,7 +17,7 @@ def sum_numbers_from_file():
     with open('numbers.txt', 'r') as file:
         for line in file:
             try:
-                total += int(line.strip())
+                total += float(line)
 
             except IOError:
                 print('An error occurred trying to read the file.')
